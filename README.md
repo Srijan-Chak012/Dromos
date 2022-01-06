@@ -32,10 +32,6 @@ Check out the group project at: (https://github.com/dassaniGeet/Routing)
 
 # How to Run the Code:
 
-<br>
-
-![alt text](https://github.com/AnushaNathRoy/Dromos-Routing/blob/master/readme_images/img1.svg)
-
 Firstly user has to download and put all of the following files in the same folder otherwise code will not work fine as in code we are calling various files so those all files should be present at the same place. Files are:
 
 ```bash
