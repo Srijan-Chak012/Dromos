@@ -1,8 +1,6 @@
 # Routing
 # ReadMe
 
-![alt text](https://github.com/AnushaNathRoy/Dromos-Routing/blob/master/readme_images/img.svg)
-<br>
 We have implemented **User Friendly Routing Program.
 
 The main aim of our project is to give minimum time and distance for given source and destination in the graph(source and destination will be entered by the user).
