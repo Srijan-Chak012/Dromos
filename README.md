@@ -15,9 +15,6 @@ As the program is quite user friendly and at every point, it asks the user which
 
 Added to all this we have also kept password protection for the admin window, i.e. the person will have to enter the password to access admin facilities.
 
-<br>
-
-![alt text](https://github.com/AnushaNathRoy/Dromos-Routing/blob/master/readme_images/img2.svg)
 
 # Installation:
 
